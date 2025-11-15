@@ -118,9 +118,12 @@ The notebook is fully runnable end-to-end.
 (All plots are interactive within the notebook)
 
 # 📝 Project Structure
-├── mission_launches.csv        # Dataset
-├── Space_Missions_EDA.ipynb    # Analysis notebook
-└── README.md                   # Project documentation
+
+```
+├── mission_launches.csv/        # Dataset
+├── Space_Missions_EDA.ipynb/    # Analysis notebook
+└── README.md/                   # Project documentation
+```
 
 # 🚀 Future Enhancements
 
